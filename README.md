@@ -1,7 +1,7 @@
 # GenColoring - AI Coloring Page Generator
 
 
-GenColoring is a powerful online AI coloring page generation platform that provides various creative tools for kids, parents, and educators. Whether converting photos to coloring pages or generating unique coloring patterns through text descriptions, GenColoring handles the tasks well.
+[GenColoring](https://gencoloring.ai) is a powerful online AI coloring page generation platform that provides various creative tools for kids, parents, and educators. Whether converting photos to coloring pages or generating unique coloring patterns through text descriptions, GenColoring handles the tasks well.
 
 ![GenColoring Homepage](https://imagedelivery.net/2fj-ajMgkIZWOrD7Poohow/ea691cab-6fd3-458b-8b8b-8dccad09b400/public)
 
